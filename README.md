@@ -3,7 +3,8 @@
 
 
 <h1 align="center">
-  The ultimate Free Open Source Solution for automatically accept connection requests on LinkedIn!
+The definitive solution that is both free and open-source, designed for automatically accepting connection requests on LinkedIn!
+
 </h1>
 
 
