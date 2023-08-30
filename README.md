@@ -1,5 +1,4 @@
 ![logo linkedln adder2](https://github.com/icypeas-tech/linkedin-adder/assets/128605482/bfba5fa7-8496-467a-987e-b8373a3f8049)
-![Uploading logo linkedln adder2.svg…]()
 
 
 
