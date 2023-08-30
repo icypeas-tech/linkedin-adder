@@ -50,7 +50,7 @@ Is it possible to accomplish this without using a button? This involves fetching
 
 ##  👨‍💻 Support
 
-If you have any questions or need assistance, feel free to get in touch with us. We're here to help and support you : support@icypeas.com
+If you have any questions or need assistance, feel free to get in touch with us. We're here to help and support you: support@icypeas.com
 
 
 
