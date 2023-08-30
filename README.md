@@ -12,6 +12,9 @@ Find an Npoint API (command that allows performing the action) and inspect the D
 Identify the API request for accepting a connection request and test it manually in DevTools.
 Automate the service (requires session cookie and investigate if it can be done).
 
+<img width="323" alt="Capture d’écran 2023-08-30 à 14 28 25" src="https://github.com/icypeas-tech/linkedin-adder/assets/128605482/5f75fd22-49bf-4b4c-be22-64531dc48bc8">
+
+
 ## 💻 Install the project in developer mode
 
 - [ ] Download the entire project
