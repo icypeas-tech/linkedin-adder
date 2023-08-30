@@ -1,4 +1,7 @@
-![logo linkedln adder](https://github.com/icypeas-tech/linkedin-adder/assets/128605482/d3507bd1-a8a3-4156-8ddb-32e3107e006c)
+![logo linkedln adder2](https://github.com/icypeas-tech/linkedin-adder/assets/128605482/bfba5fa7-8496-467a-987e-b8373a3f8049)
+![Uploading logo linkedln adder2.svg…]()
+
+
 
 <h1 align="center">
   The ultimate Free Open Source Solution for automatically accept connection requests on LinkedIn!
