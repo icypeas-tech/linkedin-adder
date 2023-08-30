@@ -13,14 +13,12 @@ LinkedIn Adder is an open-source Chrome extension developed by the Icypeas team,
 Is it possible to accomplish this without using a button? This involves fetching the user's session cookie to initiate requests for accepting connection requests.
 
 
-
-
 - Look for an Npoint API (a command that facilitates the action) and examine the DevTools.
 * Locate the API request responsible for accepting connection requests and carry out a manual test within DevTools.
 + Streamline the process through automation (requires the session cookie and an investigation into its feasibility).
 
 <p align="center">
-  <img width="400"  src="https://github.com/icypeas-tech/linkedin-adder/assets/128605482/7112d781-c181-4be1-bc56-e9783b6d4d07">
+  <img width="400"  src="https://github.com/icypeas/linkedin-adder/assets/128605482/40b45c1a-9ff1-438e-9b28-cda387d576ea">
 </p>
 
 
