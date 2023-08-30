@@ -7,12 +7,12 @@
 </h1>
 
 
-LinkedIn Adder is a Chrome extension open source create by the teams of Icypeas that allows you to automatically accept connection requests on LinkedIn with a button here. 
+LinkedIn Adder is an open-source Chrome extension developed by the Icypeas team, enabling you to effortlessly accept connection requests on LinkedIn using a provided button.
 
-- without button ? Retrieves the user's session cookie to send requests for accepting connection requests.
-Find an Npoint API (command that allows performing the action) and inspect the DevTools.
-Identify the API request for accepting a connection request and test it manually in DevTools.
-Automate the service (requires session cookie and investigate if it can be done).
+Is it possible to accomplish this without using a button? This involves fetching the user's session cookie to initiate requests for accepting connection requests.
+• Look for an Npoint API (a command that facilitates the action) and examine the DevTools.
+• Locate the API request responsible for accepting connection requests and carry out a manual test within DevTools.
+• Streamline the process through automation (requires the session cookie and an investigation into its feasibility).
 
 <p align="center">
   <img width="400"  src="https://github.com/icypeas-tech/linkedin-adder/assets/128605482/7112d781-c181-4be1-bc56-e9783b6d4d07">
@@ -28,18 +28,19 @@ Automate the service (requires session cookie and investigate if it can be done)
 
 ## 🚦 Test
 
-- [ ] Click on the icon that appears in the top right corner, then click the "Add" button after navigating to the appropriate page
-(Irreversible action!)
-One day there will be no button, everything happens automatically!
+- [ ] Click the icon situated in the upper-right corner, followed by selecting the "Add" button once you've reached the relevant page.
+(Warning: This action cannot be undone!)
+
+• A future envisioning involves the elimination of the button, with all processes unfolding seamlessly and autonomously!
 
 ## 📋 Files
 
-- [ ] manifest.json: File for the Chrome extension containing its information (name, version, description, permissions, scripts...) + Declaration of entry points (popup page and content scripts).
-- [ ]  popup.html: Defines the popup page of the extension that is displayed when the user clicks on the extension icon.
-- [ ] popup.js: JavaScript script associated with the popup page: Handles user events/interactions on the popup page (button, link, etc.).
-- [ ] background.js: Script to listen for the click on the extension icon and execute the content script to remove the invitations.
-- [ ] content.js: Content script injected into the web page (handles the button click).
-- [ ] jsconfig.js (include the chrome package to benefit from auto-completion in VSCode).
+- [ ] manifest.json: This file contains essential information about the Chrome extension, such as its name, version, description, permissions, and scripts. It also includes declarations of entry points, namely the popup page and content scripts.
+- [ ] popup.html: Responsible for defining the popup page of the extension, visible when the user interacts with the extension icon.
+- [ ] popup.js: The JavaScript script linked to the popup page. It manages user events and interactions that occur on the popup page, like buttons and links.
+- [ ] background.js: This script monitors clicks on the extension icon and triggers the execution of the content script, which handles the removal of invitations.
+- [ ] content.js: An injected content script operating within the web page, handling actions like button clicks.
+- [ ] jsconfig.js (includes the chrome package to enable auto-completion in VSCode).
 
 
 ##  👨‍💻 Support
