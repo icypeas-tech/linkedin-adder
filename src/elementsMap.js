@@ -3,10 +3,10 @@
 
 const elementsMap = {
     //content.js
-    addButton: ".invitation-card__action-btn.artdeco-button--secondary",
+    addButton: "artdeco-button artdeco-button--2 artdeco-button--secondary ember-view invitation-card__action-btn",
 
     //popup.js
-    linkedInURL: "https://www.linkedin.com/mynetwork/invitation-manager/sent/",
+    linkedInURL: "https://www.linkedin.com/mynetwork/invitation-manager/",
     icypeasURL: "https://www.icypeas.com/"
 }
 window.elementsMap = elementsMap;

@@ -3,12 +3,12 @@
 
 
 <h1 align="center">
-The definitive solution that is both free and open-source, designed for automatically accepting connection requests on LinkedIn!
+The solution, free and open-source, crafted for seamlessly automating LinkedIn connection requests acceptance!
 
 </h1>
 
 
-LinkedIn Adder is an open-source Chrome extension developed by the Icypeas team, enabling you to effortlessly accept connection requests on LinkedIn using a provided button.
+LinkedIn Adder is a Chrome extension developed by the Icypeas team, an open-source tool that allows you to seamlessly accept LinkedIn connection requests with the click of a button.
 
 Is it possible to accomplish this without using a button? This involves fetching the user's session cookie to initiate requests for accepting connection requests.
 
@@ -29,12 +29,21 @@ Is it possible to accomplish this without using a button? This involves fetching
 - [ ] Select the project directory
 - [ ] Enable the extension
 
-## 🚦 Test
+## 🚦 Usage
 
-- [ ] Click the icon situated in the upper-right corner, followed by selecting the "Add" button once you've reached the relevant page.
-(Warning: This action cannot be undone!)
+Optimize your LinkedIn experience with LinkedIn Adder:
 
-• A future envisioning involves the elimination of the button, with all processes unfolding seamlessly and autonomously!
+- [ ] Activate LinkedIn Adder by simply pressing the extension.
+- [ ] Navigate to https://www.linkedin.com/mynetwork/invitation-manager/.
+- [ ] Ensure smooth operation by pressing the LinkedIn Adder extension again.
+- [ ] Accept pending requests effortlessly by pressing the 'Add all connection requests' button.
+- [ ] Stay on the page until all pending requests are successfully accepted.
+
+Seamlessly manage your LinkedIn connections—just another way our startup approach enhances your workflow.
+This video demonstrates how to use it :
+<p align="center">
+  <video src="" controls width="500" loop></video>
+</p>
 
 ## 📋 Files
 
@@ -48,7 +57,7 @@ Is it possible to accomplish this without using a button? This involves fetching
 
 ##  👨‍💻 Support
 
-If you have any questions or need assistance, feel free to get in touch with us. We're here to help and support you: support@icypeas.com
+If you have any questions or require assistance, don't hesitate to reach out. Our dedicated support team is here to help you every step of the way. Contact us at support@icypeas.com for prompt and reliable assistance.
 
 
 
