@@ -18,7 +18,7 @@ Is it possible to accomplish this without using a button? This involves fetching
 + Streamline the process through automation (requires the session cookie and an investigation into its feasibility).
 
 <p align="center">
-  <img width="400"  src="https://github.com/icypeas/linkedin-adder/assets/128605482/40b45c1a-9ff1-438e-9b28-cda387d576ea">
+  <img width="400"  src="./src/image/linkedIn-adder.png">
 </p>
 
 
@@ -43,9 +43,9 @@ Seamlessly manage your LinkedIn connections—just another way our startup appro
 This video demonstrates how to use it :
 
 <p dir="auto" align="center"><animated-image data-catalyst="">
-  <a target="_blank" rel="noopener noreferrer" href="./src/videos/linkedin-adder.mp4" data-target="animated-image.originalLink">
-    <img src="./src/videos/linkedinAdder.gif" alt="build" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-  </a>
+  <!-- <a target="_blank" rel="noopener noreferrer" href="./src/videos/linkedin-adder.mp4" data-target="animated-image.originalLink"> -->
+    <img src="./src/videos/linkedinAdder.gif" alt="build" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <!-- </a> -->
 </p>
 
 ## 📋 Files
