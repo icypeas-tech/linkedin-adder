@@ -47,11 +47,9 @@ This video demonstrates how to use it :
     <!-- <img src="./src/videos/linkedinAdder.gif" alt="build" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage"> -->
   <!-- </a> -->
     <!-- <video src="./src/videos/linkedin-adder.mp4" controls width="900" loop> -->
-    <video src="https://youtu.be/k-OAg-eSrAw?si=Meq2vWcnnTqJ9GOa" width="900">
-    <!-- <iframe width="560" height="315" src="https://youtu.be/k-OAg-eSrAw?si=Meq2vWcnnTqJ9GOa" title="YouTube video player" frameborder="0" allow="loop" allowfullscreen></iframe> -->
+    <!-- <video src="https://youtu.be/k-OAg-eSrAw?si=Meq2vWcnnTqJ9GOa" width="900"> -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/k-OAg-eSrAw?si=yg4JoJauP9yFI8PM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
-
-https://youtu.be/k-OAg-eSrAw?si=Meq2vWcnnTqJ9GOa
 
 ## 📋 Files
 
