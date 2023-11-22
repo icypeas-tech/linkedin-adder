@@ -46,7 +46,8 @@ This video demonstrates how to use it :
   <!-- <a target="_blank" rel="noopener noreferrer" href="./src/videos/linkedin-adder.mp4" data-target="animated-image.originalLink"> -->
     <!-- <img src="./src/videos/linkedinAdder.gif" alt="build" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage"> -->
   <!-- </a> -->
-    <video src="./src/videos/linkedin-adder.mp4" controls width="900" loop>
+    <!-- <video src="./src/videos/linkedin-adder.mp4" controls width="900" loop> -->
+    <iframe width="560" height="315" src="https://youtu.be/k-OAg-eSrAw" title="YouTube video player" frameborder="0" allow="loop" allowfullscreen></iframe>
 </p>
 
 ## 📋 Files
