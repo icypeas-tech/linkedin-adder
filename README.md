@@ -43,12 +43,9 @@ Seamlessly manage your LinkedIn connections—just another way our startup appro
 This video demonstrates how to use it :
 
 <p dir="auto" align="center"><animated-image data-catalyst="">
-  <!-- <a target="_blank" rel="noopener noreferrer" href="./src/videos/linkedin-adder.mp4" data-target="animated-image.originalLink"> -->
-    <!-- <img src="./src/videos/linkedinAdder.gif" alt="build" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage"> -->
-  <!-- </a> -->
-    <!-- <video src="./src/videos/linkedin-adder.mp4" controls width="900" loop> -->
-    <!-- <video src="https://youtu.be/k-OAg-eSrAw?si=Meq2vWcnnTqJ9GOa" width="900"> -->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/k-OAg-eSrAw?si=yg4JoJauP9yFI8PM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://github.com/icypeas/linkedin-adder/assets/137278677/43ef41a6-43dd-43b2-a81f-c2a3be95e2da
+
 </p>
 
 ## 📋 Files
