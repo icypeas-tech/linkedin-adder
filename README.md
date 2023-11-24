@@ -62,5 +62,9 @@ https://github.com/icypeas/linkedin-adder/assets/137278677/43ef41a6-43dd-43b2-a8
 
 If you have any questions or require assistance, don't hesitate to reach out. Our dedicated support team is here to help you every step of the way. Contact us at support@icypeas.com for prompt and reliable assistance.
 
+##  🙋 Credits
+
+This extension has been developed and open sourced by the team behind Icypeas https://www.icypeas.com/
+
 
 
