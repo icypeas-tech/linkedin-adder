@@ -44,6 +44,8 @@ This video demonstrates how to use it :
 
 <p dir="auto" align="center"><animated-image data-catalyst="">
 
+https://github.com/icypeas/linkedin-adder/assets/137278677/43ef41a6-43dd-43b2-a81f-c2a3be95e2da
+
 </p>
 
 ## 📋 Files
@@ -59,6 +61,10 @@ This video demonstrates how to use it :
 ##  👨‍💻 Support
 
 If you have any questions or require assistance, don't hesitate to reach out. Our dedicated support team is here to help you every step of the way. Contact us at support@icypeas.com for prompt and reliable assistance.
+
+##  🙋 Credits
+
+This extension has been developed and open sourced by the team behind Icypeas https://www.icypeas.com/
 
 
 
